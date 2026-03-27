@@ -43,4 +43,4 @@ The database is ideal for **learning SQL**, building **data-driven applications*
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/movie-database-sql.git
+git clone https://github.com/excellenceogisi-dev/movie-database-sql.git
